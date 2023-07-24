@@ -1,0 +1,29 @@
+.divCard{
+    
+    width:fit-content;
+    height:auto;
+    background-color: rgb(60, 108, 197);
+    padding: 1em;
+    border-radius: 10px;
+    border: solid;
+    box-shadow: 10px 10px 64px 0px rgba(0,0,0,0.75);
+    color:white;
+    
+    
+}
+h2{
+    text-align: center;
+    font-weight: 450;
+}
+.button{
+    border-radius: 15px;
+}
+.button:hover{
+    box-shadow: 10px 10px 64px 0px rgba(0,0,0,0.75);
+}
+ 
+.image{
+    height: 30%;
+    width: 100%;
+} 
+    

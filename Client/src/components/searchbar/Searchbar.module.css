@@ -1,0 +1,11 @@
+.sbar {
+    position: flex;
+    float: right;
+    padding: 1em;
+    border-radius: 15px;
+    background-color: rgb(6, 2, 68) ;
+    box-shadow: 10px 10px 64px 0px rgba(0,0,0,0.75);
+}
+.button{
+    font-weight:700
+}
